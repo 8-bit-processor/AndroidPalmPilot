@@ -22,14 +22,12 @@ npx cap open android
 ✅ Offline functionality  
 
 ## Important Notes:
-- The Gradle warnings you see are compatibility notices, not errors
-- Your app will build and run perfectly fine
+- The Gradle warnings you see are compatibility notices 
 - All original web app features work unchanged
-- Camera permissions will be requested when needed
+- Camera permissions requested when needed
 - Data persists locally on your device
 
 ## Troubleshooting:
-If you encounter issues:
 1. **Build → Clean Project** in Android Studio
 2. **Build → Invalidate Caches and Restart**
 3. Try running with different JDK versions if needed
