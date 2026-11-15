@@ -1,8 +1,9 @@
 # Personal Organizer - Android App
+<img width="1919" height="1025" alt="Screenshot 2026-11-14 233835" src="https://github.com/user-attachments/assets/e7779c26-6e06-44aa-8d3d-ae5743e87e52" />
 
 ## How to Run the App:
 
-### Method 1: Using Android Studio (Recommended)
+### Method 1: Using Android Studio (build with capacitor)
 1. **Open Android Studio**
 2. **File → Open** → Select this folder (`webAndroidApp`)
 3. **Build → Make Project**
